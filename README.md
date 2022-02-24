@@ -1,3 +1,3 @@
-# Qdvice Generator with react
+# Advice Generator with react
 
 
